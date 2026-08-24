@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yevgeniyboykov.github.io/evgeniy-services/sitemap.xml
